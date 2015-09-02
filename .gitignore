@@ -1,0 +1,5 @@
+#work directory
+target
+.DS_Store
+.settings
+.svn
