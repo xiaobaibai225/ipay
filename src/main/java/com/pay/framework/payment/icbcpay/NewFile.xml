@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding = "GBK"?>
+<CMS>
+	<eb>
+		<pub>
+			<TransCode>B2CEJEINF</TransCode>
+			<CIS>020000459999AAA</CIS>
+			<BankCode>102</BankCode>
+			<ID>test20141223-1.y.0200</ID>
+			<TranDate>20150424</TranDate>
+			<TranTime>134748000890</TranTime>
+			<fSeqno>201504230000001</fSeqno>
+		</pub>
+		<in>
+			<Ordertype>0</Ordertype>
+			<ShopType>B2C</ShopType>
+			<ShopCode>201504230000001</ShopCode>
+			<ShopAcct>0200004519000100173</ShopAcct>
+			<QrySerialNo></QrySerialNo>
+			<QryOrderNum>null</QryOrderNum>
+			<BeginDate></BeginDate>
+			<EndDate></EndDate>
+			<BeginTime></BeginTime>
+			<EndTime></EndTime>
+			<ResultType>010</ResultType>
+			<EndTime></EndTime>
+			<PTOrderNo>HFG000006161875939</PTOrderNo>
+			<NextTag></NextTag>
+			<IfSeqno></IfSeqno>
+			<AcctSeq></AcctSeq>
+		</in>
+	</eb>
+</CMS>
